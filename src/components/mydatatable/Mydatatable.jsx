@@ -13,11 +13,6 @@ const rows = [
   { id: 3, cateName: "Cake" },
   { id: 4, cateName: "Pastry" },
   { id: 5, cateName: "Cookie" },
-  { id: 6, cateName: "Coffe" },
-  { id: 7, cateName: "Non Coffe" },
-  { id: 8, cateName: "Cake" },
-  { id: 9, cateName: "Pastry" },
-  { id: 10, cateName: "Cookie" },
 ];
 
 /*const actionColumn = [
